@@ -1,0 +1,32 @@
+h1{
+    background-color: #D18C1D;
+    color: black;
+    border:1px solid red;
+    text-align: center;
+}
+p{
+    height: 600px;
+    width: 400px;
+    border: 2px dotted black;
+    background-color: #d1d631;
+}
+img{
+    border-radius: 20px;
+    height: 300px;
+}
+.circle{
+    height: 250px;
+    width: 250px;
+    background-color: red;
+    border-radius: 50%;
+}
+.footer {
+   background-color: #A1A1A1;
+}
+a{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    margin: 180px;
+    border: 3px dashed blue;
+}
